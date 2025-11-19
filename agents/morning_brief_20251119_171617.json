@@ -1,0 +1,917 @@
+{
+  "timestamp": "2025-11-19T17:16:16.084547",
+  "allocation": {
+    "by_region": {
+      "East Asia": {
+        "count": 8,
+        "market_cap": 1093653996601344,
+        "avg_change": -0.62,
+        "symbols": [
+          "TSM",
+          "005930.KS",
+          "0700.HK",
+          "6758.T",
+          "9888.HK",
+          "BABA",
+          "9984.T",
+          "000660.KS"
+        ],
+        "percentage": 73.5252525883385
+      },
+      "South Asia": {
+        "count": 4,
+        "market_cap": 24858541162496,
+        "avg_change": 3.05,
+        "symbols": [
+          "TCS.BO",
+          "INFY.BO",
+          "WIPRO.BO",
+          "HCLTECH.BO"
+        ],
+        "percentage": 1.6712145922110753
+      },
+      "Southeast Asia": {
+        "count": 4,
+        "market_cap": 362570000473088,
+        "avg_change": -0.17,
+        "symbols": [
+          "ADVANC.BK",
+          "U11.SI",
+          "TLKM.JK",
+          "5185.KL"
+        ],
+        "percentage": 24.375214600395346
+      },
+      "Western Asia": {
+        "count": 3,
+        "market_cap": 6371034652672,
+        "avg_change": -0.52,
+        "symbols": [
+          "EMAAR.AE",
+          "2222.SR"
+        ],
+        "percentage": 0.4283182190550874
+      }
+    },
+    "by_sector": {
+      "Technology": {
+        "count": 8,
+        "market_cap": 1085362629509120,
+        "symbols": [
+          "TSM",
+          "005930.KS",
+          "6758.T",
+          "000660.KS",
+          "TCS.BO",
+          "INFY.BO",
+          "WIPRO.BO",
+          "HCLTECH.BO"
+        ],
+        "percentage": 72.96783236068616
+      },
+      "Communication Services": {
+        "count": 5,
+        "market_cap": 395276834471936,
+        "symbols": [
+          "0700.HK",
+          "9888.HK",
+          "9984.T",
+          "ADVANC.BK",
+          "TLKM.JK"
+        ],
+        "percentage": 26.57406198595173
+      },
+      "Consumer Cyclical": {
+        "count": 1,
+        "market_cap": 381091315712,
+        "symbols": [
+          "BABA"
+        ],
+        "percentage": 0.0256203839002298
+      },
+      "Financial Services": {
+        "count": 2,
+        "market_cap": 61982940160,
+        "symbols": [
+          "U11.SI",
+          "5185.KL"
+        ],
+        "percentage": 0.0041670504067961535
+      },
+      "Real Estate": {
+        "count": 1,
+        "market_cap": 116672028672,
+        "symbols": [
+          "EMAAR.AE"
+        ],
+        "percentage": 0.007843742540840937
+      },
+      "Energy": {
+        "count": 1,
+        "market_cap": 6254362624000,
+        "symbols": [
+          "2222.SR"
+        ],
+        "percentage": 0.4204744765142464
+      }
+    },
+    "total_market_cap": 1487453572889600,
+    "total_stocks": 18,
+    "stocks": [
+      {
+        "symbol": "TSM",
+        "region": "East Asia",
+        "sector": "Technology",
+        "market_cap": 1441386725376,
+        "current_price": 277.91,
+        "change_percent": -1.45,
+        "volume": 11830200,
+        "company_name": "Taiwan Semiconductor Manufacturing Company Limited"
+      },
+      {
+        "symbol": "005930.KS",
+        "region": "East Asia",
+        "sector": "Technology",
+        "market_cap": 645207032856576,
+        "current_price": 96500.0,
+        "change_percent": -1.33,
+        "volume": 20076887,
+        "company_name": "Samsung Electronics Co., Ltd."
+      },
+      {
+        "symbol": "0700.HK",
+        "region": "East Asia",
+        "sector": "Communication Services",
+        "market_cap": 5638435897344,
+        "current_price": 622.5,
+        "change_percent": -0.16,
+        "volume": 13959808,
+        "company_name": "TENCENT"
+      },
+      {
+        "symbol": "6758.T",
+        "region": "East Asia",
+        "sector": "Technology",
+        "market_cap": 25844061831168,
+        "current_price": 4332.0,
+        "change_percent": -1.75,
+        "volume": 13170800,
+        "company_name": "Sony Group Corporation"
+      },
+      {
+        "symbol": "9888.HK",
+        "region": "East Asia",
+        "sector": "Communication Services",
+        "market_cap": 311940448256,
+        "current_price": 111.2,
+        "change_percent": -0.18,
+        "volume": 18990394,
+        "company_name": "Baidu, Inc."
+      },
+      {
+        "symbol": "BABA",
+        "region": "East Asia",
+        "sector": "Consumer Cyclical",
+        "market_cap": 381091315712,
+        "current_price": 159.72,
+        "change_percent": 1.27,
+        "volume": 12413600,
+        "company_name": "Alibaba Group Holding Limited"
+      },
+      {
+        "symbol": "9984.T",
+        "region": "East Asia",
+        "sector": "Communication Services",
+        "market_cap": 26818440593408,
+        "current_price": 18825.0,
+        "change_percent": 0.03,
+        "volume": 20230200,
+        "company_name": "SoftBank Group Corp."
+      },
+      {
+        "symbol": "000660.KS",
+        "region": "East Asia",
+        "sector": "Technology",
+        "market_cap": 388011606933504,
+        "current_price": 562000.0,
+        "change_percent": -1.4,
+        "volume": 4779807,
+        "company_name": "SK hynix Inc."
+      },
+      {
+        "symbol": "TCS.BO",
+        "region": "South Asia",
+        "sector": "Technology",
+        "market_cap": 11386844348416,
+        "current_price": 3147.2,
+        "change_percent": 1.99,
+        "volume": 122096,
+        "company_name": "Tata Consultancy Services Limited"
+      },
+      {
+        "symbol": "INFY.BO",
+        "region": "South Asia",
+        "sector": "Technology",
+        "market_cap": 6388958887936,
+        "current_price": 1541.25,
+        "change_percent": 3.74,
+        "volume": 415125,
+        "company_name": "Infosys Limited"
+      },
+      {
+        "symbol": "WIPRO.BO",
+        "region": "South Asia",
+        "sector": "Technology",
+        "market_cap": 2576837509120,
+        "current_price": 246.05,
+        "change_percent": 2.18,
+        "volume": 332032,
+        "company_name": "Wipro Limited"
+      },
+      {
+        "symbol": "HCLTECH.BO",
+        "region": "South Asia",
+        "sector": "Technology",
+        "market_cap": 4505900417024,
+        "current_price": 1663.0,
+        "change_percent": 4.28,
+        "volume": 165189,
+        "company_name": "HCL Technologies Limited"
+      },
+      {
+        "symbol": "ADVANC.BK",
+        "region": "Southeast Asia",
+        "sector": "Communication Services",
+        "market_cap": 930927673344,
+        "current_price": 313.0,
+        "change_percent": -0.95,
+        "volume": 5092965,
+        "company_name": "Advanced Info Service Public Company Limited"
+      },
+      {
+        "symbol": "U11.SI",
+        "region": "Southeast Asia",
+        "sector": "Financial Services",
+        "market_cap": 56180457472,
+        "current_price": 33.84,
+        "change_percent": -0.56,
+        "volume": 3210190,
+        "company_name": "United Overseas Bank Limited"
+      },
+      {
+        "symbol": "TLKM.JK",
+        "region": "Southeast Asia",
+        "sector": "Communication Services",
+        "market_cap": 361577089859584,
+        "current_price": 3650.0,
+        "change_percent": 0.83,
+        "volume": 109911100,
+        "company_name": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk"
+      },
+      {
+        "symbol": "5185.KL",
+        "region": "Southeast Asia",
+        "sector": "Financial Services",
+        "market_cap": 5802482688,
+        "current_price": 2.29,
+        "change_percent": 0.0,
+        "volume": 1093500,
+        "company_name": "AFFIN Bank Berhad"
+      },
+      {
+        "symbol": "EMAAR.AE",
+        "region": "Western Asia",
+        "sector": "Real Estate",
+        "market_cap": 116672028672,
+        "current_price": 13.2,
+        "change_percent": -1.12,
+        "volume": 17141057,
+        "company_name": "Emaar Properties PJSC"
+      },
+      {
+        "symbol": "2222.SR",
+        "region": "Western Asia",
+        "sector": "Energy",
+        "market_cap": 6254362624000,
+        "current_price": 25.86,
+        "change_percent": 0.08,
+        "volume": 9953064,
+        "company_name": "Saudi Arabian Oil Company"
+      }
+    ]
+  },
+  "risk_metrics": {
+    "volatility": 1.7170621622806215,
+    "mean_return": 0.3055555555555556,
+    "max_drawdown": -1.75,
+    "max_gain": 4.28,
+    "positive_stocks": 8,
+    "negative_stocks": 9,
+    "neutral_stocks": 1,
+    "total_stocks": 18,
+    "sharpe_ratio": 2.824175091172885,
+    "value_at_risk_95": -1.4949999999999999,
+    "value_at_risk_99": -1.699,
+    "stocks": [
+      {
+        "symbol": "TSM",
+        "region": "East Asia",
+        "change": -1.45,
+        "volume": 11830200,
+        "market_cap": 1441386725376
+      },
+      {
+        "symbol": "005930.KS",
+        "region": "East Asia",
+        "change": -1.33,
+        "volume": 20076887,
+        "market_cap": 645207032856576
+      },
+      {
+        "symbol": "0700.HK",
+        "region": "East Asia",
+        "change": -0.16,
+        "volume": 13959808,
+        "market_cap": 5638435897344
+      },
+      {
+        "symbol": "6758.T",
+        "region": "East Asia",
+        "change": -1.75,
+        "volume": 13170800,
+        "market_cap": 25844061831168
+      },
+      {
+        "symbol": "9888.HK",
+        "region": "East Asia",
+        "change": -0.18,
+        "volume": 18990394,
+        "market_cap": 311940448256
+      },
+      {
+        "symbol": "BABA",
+        "region": "East Asia",
+        "change": 1.27,
+        "volume": 12413600,
+        "market_cap": 381091315712
+      },
+      {
+        "symbol": "9984.T",
+        "region": "East Asia",
+        "change": 0.03,
+        "volume": 20230200,
+        "market_cap": 26818440593408
+      },
+      {
+        "symbol": "000660.KS",
+        "region": "East Asia",
+        "change": -1.4,
+        "volume": 4779807,
+        "market_cap": 388011606933504
+      },
+      {
+        "symbol": "TCS.BO",
+        "region": "South Asia",
+        "change": 1.99,
+        "volume": 122096,
+        "market_cap": 11386844348416
+      },
+      {
+        "symbol": "INFY.BO",
+        "region": "South Asia",
+        "change": 3.74,
+        "volume": 415125,
+        "market_cap": 6388958887936
+      },
+      {
+        "symbol": "WIPRO.BO",
+        "region": "South Asia",
+        "change": 2.18,
+        "volume": 332032,
+        "market_cap": 2576837509120
+      },
+      {
+        "symbol": "HCLTECH.BO",
+        "region": "South Asia",
+        "change": 4.28,
+        "volume": 165189,
+        "market_cap": 4505900417024
+      },
+      {
+        "symbol": "ADVANC.BK",
+        "region": "Southeast Asia",
+        "change": -0.95,
+        "volume": 5092965,
+        "market_cap": 930927673344
+      },
+      {
+        "symbol": "U11.SI",
+        "region": "Southeast Asia",
+        "change": -0.56,
+        "volume": 3210190,
+        "market_cap": 56180457472
+      },
+      {
+        "symbol": "TLKM.JK",
+        "region": "Southeast Asia",
+        "change": 0.83,
+        "volume": 109911100,
+        "market_cap": 361577089859584
+      },
+      {
+        "symbol": "5185.KL",
+        "region": "Southeast Asia",
+        "change": 0.0,
+        "volume": 1093500,
+        "market_cap": 5802482688
+      },
+      {
+        "symbol": "EMAAR.AE",
+        "region": "Western Asia",
+        "change": -1.12,
+        "volume": 17141057,
+        "market_cap": 116672028672
+      },
+      {
+        "symbol": "2222.SR",
+        "region": "Western Asia",
+        "change": 0.08,
+        "volume": 9953064,
+        "market_cap": 6254362624000
+      }
+    ],
+    "concentration_risk": "High (Concentrated)",
+    "return_correlation": 1.0
+  },
+  "earnings_surprises": {
+    "beats": [
+      {
+        "symbol": "9984.T",
+        "region": "East Asia",
+        "company_name": "SoftBank Group Corp.",
+        "earnings_growth": 117.7,
+        "eps": 2139.83,
+        "forward_pe": 63.75089,
+        "pe_ratio": 8.797427,
+        "revenue_growth": 0.084,
+        "profit_margins": 0.40903
+      },
+      {
+        "symbol": "BABA",
+        "region": "East Asia",
+        "company_name": "Alibaba Group Holding Limited",
+        "earnings_growth": 81.8,
+        "eps": 8.69,
+        "forward_pe": 16.182371,
+        "pe_ratio": 18.379747,
+        "revenue_growth": 0.018,
+        "profit_margins": 0.14626001
+      },
+      {
+        "symbol": "TSM",
+        "region": "East Asia",
+        "company_name": "Taiwan Semiconductor Manufacturing Company Limited",
+        "earnings_growth": 39.1,
+        "eps": 9.89,
+        "forward_pe": 34.394802,
+        "pe_ratio": 28.1001,
+        "revenue_growth": 0.303,
+        "profit_margins": 0.43287
+      },
+      {
+        "symbol": "ADVANC.BK",
+        "region": "Southeast Asia",
+        "company_name": "Advanced Info Service Public Company Limited",
+        "earnings_growth": 37.3,
+        "eps": 14.41,
+        "forward_pe": 24.861,
+        "pe_ratio": 21.721027,
+        "revenue_growth": 0.041,
+        "profit_margins": 0.19182
+      },
+      {
+        "symbol": "EMAAR.AE",
+        "region": "Western Asia",
+        "company_name": "Emaar Properties PJSC",
+        "earnings_growth": 36.1,
+        "eps": 1.87,
+        "forward_pe": 9.361702,
+        "pe_ratio": 7.0588236,
+        "revenue_growth": 0.414,
+        "profit_margins": 0.36688998
+      },
+      {
+        "symbol": "005930.KS",
+        "region": "East Asia",
+        "company_name": "Samsung Electronics Co., Ltd.",
+        "earnings_growth": 27.0,
+        "eps": "N/A",
+        "forward_pe": 9.707302,
+        "pe_ratio": "N/A",
+        "revenue_growth": 0.089,
+        "profit_margins": 0.102919996
+      },
+      {
+        "symbol": "0700.HK",
+        "region": "East Asia",
+        "company_name": "TENCENT",
+        "earnings_growth": 20.1,
+        "eps": 24.32,
+        "forward_pe": 22.953539,
+        "pe_ratio": 25.596218,
+        "revenue_growth": 0.145,
+        "profit_margins": 0.29539
+      },
+      {
+        "symbol": "5185.KL",
+        "region": "Southeast Asia",
+        "company_name": "AFFIN Bank Berhad",
+        "earnings_growth": 18.4,
+        "eps": 0.21,
+        "forward_pe": 8.807693,
+        "pe_ratio": 10.904762,
+        "revenue_growth": 0.151,
+        "profit_margins": 0.22629
+      },
+      {
+        "symbol": "6758.T",
+        "region": "East Asia",
+        "company_name": "Sony Group Corporation",
+        "earnings_growth": 7.8,
+        "eps": 200.17,
+        "forward_pe": 23.646288,
+        "pe_ratio": 21.641605,
+        "revenue_growth": 0.046,
+        "profit_margins": 0.088999994
+      },
+      {
+        "symbol": "INFY.BO",
+        "region": "South Asia",
+        "company_name": "Infosys Limited",
+        "earnings_growth": 6.6000000000000005,
+        "eps": 70.12,
+        "forward_pe": 20.565943,
+        "pe_ratio": 21.980177,
+        "revenue_growth": 0.037,
+        "profit_margins": 0.16584998
+      }
+    ],
+    "misses": [
+      {
+        "symbol": "TLKM.JK",
+        "region": "Southeast Asia",
+        "company_name": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk",
+        "earnings_growth": -18.7,
+        "eps": 219.37,
+        "forward_pe": 13.978784,
+        "pe_ratio": 16.638556,
+        "revenue_growth": -0.009,
+        "profit_margins": 0.14765
+      }
+    ],
+    "in_line": [
+      {
+        "symbol": "TCS.BO",
+        "region": "South Asia",
+        "company_name": "Tata Consultancy Services Limited",
+        "earnings_growth": 1.4000000000000001,
+        "eps": 136.69,
+        "forward_pe": 20.666307,
+        "pe_ratio": 23.02436,
+        "revenue_growth": 0.024,
+        "profit_margins": 0.19186
+      },
+      {
+        "symbol": "WIPRO.BO",
+        "region": "South Asia",
+        "company_name": "Wipro Limited",
+        "earnings_growth": 1.0,
+        "eps": 12.86,
+        "forward_pe": 11.317847,
+        "pe_ratio": 19.13297,
+        "revenue_growth": 0.018,
+        "profit_margins": 0.15057999
+      },
+      {
+        "symbol": "HCLTECH.BO",
+        "region": "South Asia",
+        "company_name": "HCL Technologies Limited",
+        "earnings_growth": -3.9,
+        "eps": 62.51,
+        "forward_pe": 22.984028,
+        "pe_ratio": 26.603745,
+        "revenue_growth": 0.058,
+        "profit_margins": 0.13889
+      },
+      {
+        "symbol": "2222.SR",
+        "region": "Western Asia",
+        "company_name": "Saudi Arabian Oil Company",
+        "earnings_growth": 0.0,
+        "eps": 1.51,
+        "forward_pe": 15.485031,
+        "pe_ratio": 17.125828,
+        "revenue_growth": -0.1,
+        "profit_margins": 0.21700001
+      }
+    ],
+    "total_analyzed": 15
+  },
+  "sentiment_trends": {
+    "by_region": {
+      "East Asia": {
+        "positive": 4,
+        "negative": 1,
+        "neutral": 13,
+        "total": 18,
+        "overall_trend": "positive",
+        "positive_pct": 22.22222222222222,
+        "negative_pct": 5.555555555555555,
+        "neutral_pct": 72.22222222222221
+      },
+      "South Asia": {
+        "positive": 1,
+        "negative": 0,
+        "neutral": 4,
+        "total": 5,
+        "overall_trend": "positive",
+        "positive_pct": 20.0,
+        "negative_pct": 0.0,
+        "neutral_pct": 80.0
+      },
+      "Southeast Asia": {
+        "positive": 1,
+        "negative": 0,
+        "neutral": 6,
+        "total": 7,
+        "overall_trend": "positive",
+        "positive_pct": 14.285714285714285,
+        "negative_pct": 0.0,
+        "neutral_pct": 85.71428571428571
+      },
+      "Central Asia": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 2,
+        "total": 2,
+        "overall_trend": "neutral",
+        "positive_pct": 0.0,
+        "negative_pct": 0.0,
+        "neutral_pct": 100.0
+      },
+      "Western Asia": {
+        "positive": 0,
+        "negative": 0,
+        "neutral": 3,
+        "total": 3,
+        "overall_trend": "neutral",
+        "positive_pct": 0.0,
+        "negative_pct": 0.0,
+        "neutral_pct": 100.0
+      }
+    },
+    "by_stock": {
+      "BABA": {
+        "sentiment": "neutral",
+        "confidence": 0.67,
+        "region": "East Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "9888.HK": {
+        "sentiment": "neutral",
+        "confidence": 0.67,
+        "region": "East Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "TCEHY": {
+        "sentiment": "neutral",
+        "confidence": 0.67,
+        "region": "East Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "0700.HK": {
+        "sentiment": "neutral",
+        "confidence": 0.67,
+        "region": "East Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "BIDU": {
+        "sentiment": "neutral",
+        "confidence": 0.67,
+        "region": "East Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "6758.T": {
+        "sentiment": "positive",
+        "confidence": 1.0,
+        "region": "East Asia",
+        "article_count": 3,
+        "recommendation": "🟢 STRONG BUY"
+      },
+      "6501.T": {
+        "sentiment": "positive",
+        "confidence": 1.0,
+        "region": "East Asia",
+        "article_count": 3,
+        "recommendation": "🟢 STRONG BUY"
+      },
+      "9984.T": {
+        "sentiment": "negative",
+        "confidence": 0.67,
+        "region": "East Asia",
+        "article_count": 3,
+        "recommendation": "🔴 SELL"
+      },
+      "7974.T": {
+        "sentiment": "positive",
+        "confidence": 1.0,
+        "region": "East Asia",
+        "article_count": 3,
+        "recommendation": "🟢 STRONG BUY"
+      },
+      "005930.KS": {
+        "sentiment": "positive",
+        "confidence": 0.67,
+        "region": "East Asia",
+        "article_count": 3,
+        "recommendation": "🟢 BUY"
+      },
+      "000660.KS": {
+        "sentiment": "neutral",
+        "confidence": 0.67,
+        "region": "East Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "035720.KS": {
+        "sentiment": "neutral",
+        "confidence": 0.67,
+        "region": "East Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "TSM": {
+        "sentiment": "neutral",
+        "confidence": 0.67,
+        "region": "East Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "2330.TW": {
+        "sentiment": "neutral",
+        "confidence": 0.67,
+        "region": "East Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "2454.TW": {
+        "sentiment": "neutral",
+        "confidence": 1.0,
+        "region": "East Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "1211.HK": {
+        "sentiment": "neutral",
+        "confidence": 0.33,
+        "region": "East Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "TCS.BO": {
+        "sentiment": "neutral",
+        "confidence": 0.33,
+        "region": "South Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "INFY.BO": {
+        "sentiment": "positive",
+        "confidence": 0.67,
+        "region": "South Asia",
+        "article_count": 3,
+        "recommendation": "🟢 BUY"
+      },
+      "WIPRO.BO": {
+        "sentiment": "neutral",
+        "confidence": 1.0,
+        "region": "South Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "HCLTECH.BO": {
+        "sentiment": "neutral",
+        "confidence": 0.67,
+        "region": "South Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "PTCL.KA": {
+        "sentiment": "neutral",
+        "confidence": 0.67,
+        "region": "South Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "U11.SI": {
+        "sentiment": "neutral",
+        "confidence": 0.33,
+        "region": "Southeast Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "D05.SI": {
+        "sentiment": "neutral",
+        "confidence": 0.67,
+        "region": "Southeast Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "5185.KL": {
+        "sentiment": "neutral",
+        "confidence": 1.0,
+        "region": "Southeast Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "ADVANC.BK": {
+        "sentiment": "neutral",
+        "confidence": 0.67,
+        "region": "Southeast Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "TRUEIT.BK": {
+        "sentiment": "neutral",
+        "confidence": 1.0,
+        "region": "Southeast Asia",
+        "article_count": 1,
+        "recommendation": "🟡 HOLD"
+      },
+      "TLKM.JK": {
+        "sentiment": "neutral",
+        "confidence": 1.0,
+        "region": "Southeast Asia",
+        "article_count": 2,
+        "recommendation": "🟡 HOLD"
+      },
+      "VNM": {
+        "sentiment": "positive",
+        "confidence": 1.0,
+        "region": "Southeast Asia",
+        "article_count": 3,
+        "recommendation": "🟢 STRONG BUY"
+      },
+      "TRNFP": {
+        "sentiment": "neutral",
+        "confidence": 1.0,
+        "region": "Western Asia",
+        "article_count": 1,
+        "recommendation": "🟡 HOLD"
+      },
+      "2222.SR": {
+        "sentiment": "neutral",
+        "confidence": 1.0,
+        "region": "Western Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      },
+      "EMAAR.AE": {
+        "sentiment": "neutral",
+        "confidence": 0.67,
+        "region": "Western Asia",
+        "article_count": 3,
+        "recommendation": "🟡 HOLD"
+      }
+    },
+    "overall": {
+      "positive": 6,
+      "negative": 1,
+      "neutral": 24,
+      "total": 31,
+      "positive_pct": 19.35483870967742,
+      "negative_pct": 3.225806451612903,
+      "neutral_pct": 77.41935483870968
+    }
+  },
+  "summary": {
+    "total_aum": 1487453572889600,
+    "total_stocks": 18,
+    "top_region": "East Asia",
+    "top_region_allocation": 73.5252525883385,
+    "mean_return": 0.3055555555555556,
+    "volatility": 1.7170621622806215,
+    "sharpe_ratio": 2.824175091172885,
+    "concentration_risk": "High (Concentrated)",
+    "earnings_beats": 10,
+    "earnings_misses": 1,
+    "sentiment_positive_pct": 19.35483870967742,
+    "sentiment_negative_pct": 3.225806451612903,
+    "recommendation": "🟡 HOLD - Neutral market conditions"
+  }
+}
