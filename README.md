@@ -644,12 +644,6 @@ Contributions welcome! Please follow:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see LICENSE file for details.
-
----
-
 ## 👤 Author
 
 **Your Name**
@@ -670,19 +664,3 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ---
 
-## 📞 Support
-
-For issues, questions, or suggestions:
-
-- **GitHub Issues:** https://github.com/yourusername/financial-assistant/issues
-- **Email:** your.email@example.com
-- **Discord:** Your Discord server link
-
----
-
-## 🔗 Related Projects
-
-- [yfinance](https://github.com/ranaroussi/yfinance) - Yahoo Finance API
-- [LangChain](https://github.com/langchain-ai/langchain) - LLM application framework
-- [Streamlit](https://github.com/streamlit/streamlit) - Web UI framework
-- [FAISS](https://github.com/facebookresearch/faiss) - Vector similarity search
